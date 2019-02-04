@@ -1,0 +1,230 @@
+@import url(reset.css);
+body{
+	margin:0 ;
+	padding:0;
+	}
+#wrapper{}
+#header{
+	background-color:#87509C;
+	width:100%;
+	height:595px;
+	}
+#header p{
+	color:#F7F3EA;
+	text-align:center;
+	font:normal 25pt 'Titillium Web',Arial,sans-serif;
+	position:absolute;
+	top:235px;
+	left:350px;
+	}
+#bottom{
+	position:absolute;
+	top:400px;
+	left:40%;
+	margin:0 auto;
+	width:290px;
+	}
+#menu{
+	position:absolute;
+	top:50px;
+	left:800px;
+	}
+#menu ul li {
+	float:left;
+	list-style-type:none;
+	font:normal 12pt 'Titillium Web',Arial,sans-serif;
+	margin-right:35px;
+	
+	}
+#menu ul li a {
+	color:#ffffff;
+	text-decoration:none;
+	padding:5px;
+	}
+#logo{
+	position:absolute;
+	top:61px;
+	left:205px;
+	}
+#menu .current,#menu ul li a:hover{
+	border-radius:5px;
+	background-color:#643A79;
+}
+#service{
+	background-color:#17C2A4;
+	width:100%;
+	height:700px;
+	}
+#service p {
+    color: #f7f3ea;
+    font: 25pt "Titillium Web",Arial,sans-serif;
+    text-align: center;
+	margin-top:0px;
+	padding-top:100px;
+	}
+#service h2{
+	color: #f7f3ea;
+    font: 15pt "Titillium Web",Arial,sans-serif;
+    text-align: center;
+	}
+.photo{
+	margin-left:100px;
+	padding: 65px 0;
+	display:inline-block;
+	text-align:center;
+	font-size:12pt;
+	}
+#service h3 {
+	color: #f7f3ea;
+    font: 12pt "Titillium Web",Arial,sans-serif;
+    text-align: center;
+	position:relative;
+	}
+#team{
+	background-color:#E7F1F8;
+	width:100%;
+	height:910px;
+	}
+#team p {
+    color: #3C4761;
+    font: 25pt "Titillium Web",Arial,sans-serif;
+    text-align: center;
+	margin-top:0px;
+	padding-top:100px;
+	font-weight:bold;
+	}
+#team h2{
+	color: #3C4761;
+    font: 12pt "Titillium Web",Arial,sans-serif;
+    text-align: center;
+	}
+.circle{
+	margin-left:70px;
+	padding: 60px 0;
+	display:inline-block;
+	}
+#team h1{
+	color: #3C4761;
+    font: 15pt "Titillium Web",Arial,sans-serif;
+    text-align: center;
+	font-weight:bold;
+	}
+#team h3{
+	color: #30BAE7;
+    font: 12pt "Titillium Web",Arial,sans-serif;
+    text-align: center;
+	}
+#contact{
+	margin-left:35px;
+	padding: 15px 0;
+	display:inline-block;
+	}
+#contact2{
+	margin-left:55px;
+	padding: 15px 0;
+	display:inline-block;
+	}
+#skills{
+	background-color:#FFFFFF;
+	width:100%;
+	height:650px;
+	}
+#skills p {
+    color: #3C4761;
+    font: 25pt "Titillium Web",Arial,sans-serif;
+    text-align: center;
+	margin-top:0px;
+	padding-top:100px;
+	font-weight:bold;
+	}
+#skills h2{
+	color: #3C4761;
+    font: 12pt "Titillium Web",Arial,sans-serif;
+    text-align: center;
+	}
+#skill{
+	padding: 90px 80px ;
+	display:inline-block;
+	}
+#portfolio{
+	background-color:#FFDD99;
+	width:100%;
+	height:1420px;
+	}
+#portfolio p {
+    color: #3C4761;
+    font: 25pt "Titillium Web",Arial,sans-serif;
+    text-align: center;
+	margin-top:0px;
+	padding-top:100px;
+	font-weight:bold;
+	}
+#portfolio h2{
+	padding-top:10px;
+	color: #3C4761;
+    font: 12pt "Titillium Web",Arial,sans-serif;
+    text-align: center;
+	}
+#portfolio ul{
+	padding:50px 521px;
+	margin:-10px 0;
+	}
+#portfolio ul li {
+	float:left;
+	list-style-type:none;
+	font:normal 12pt 'Titillium Web',Arial,sans-serif;
+	margin-right:35px;
+	border-radius:4px;
+	background-color:#EBC985;
+	margin:2px 4px ;
+	padding:10px 10px ;
+	}
+#portfolio ul li a {
+	color:#393939;
+	text-decoration:none;
+	margin:0px -11px ;
+	padding:8px 15px ;
+	}
+#portfolio .current,#portfolio ul li a:hover{
+	border-radius:5px;
+	background-color:#F8F8F8;
+	margin:0px -11px ;
+	padding:10px 15px 
+	}
+#laptop{
+	padding: 50px 60px ;
+	display:inline-block;
+	}
+#bottom2{
+	padding: 15px 520px ;
+	}
+#testimonials{
+	background-color:#d74680;
+	width:100%;
+	height:892px;
+	
+	}
+#testimonials p{	 
+	color: #3C4761;
+    font: 25pt "Titillium Web",Arial,sans-serif;
+    text-align: center;
+	margin-top:0px;
+	padding-top:100px;
+	font-weight:bold;
+	}
+#testimonials h2{
+	padding-top:10px;
+	color: #3C4761;
+    font: 12pt "Titillium Web",Arial,sans-serif;
+    text-align: center;
+	}
+#opinion{
+	padding: 50px 60px ;
+	display:inline-block;
+	}
+
+                 
+	
+
+	
+
